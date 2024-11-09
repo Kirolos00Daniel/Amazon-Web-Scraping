@@ -95,6 +95,3 @@ This project is licensed under the MIT License.
 For questions or support, please reach out to:
 - **Your Name** Kirolos Daniel
 - **Email**: kiroemad2389@gmail.com
-```
-
-To use this README, just replace `path/to/outputX.png` with the relative paths to your images (e.g., `images/output1.png`) and add your contact information in the "Contact" section.
